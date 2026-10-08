@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn>=1.3
+matplotlib
+seaborn
+streamlit>=1.40
+joblib
+xgboost
